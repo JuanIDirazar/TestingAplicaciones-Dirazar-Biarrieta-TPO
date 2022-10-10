@@ -2,5 +2,5 @@
 # Nombre del equipo
 ## Dirazar-Biarrieta
 # Integrantes:
-##DIRAZAR, JUAN IGNACIO
+## DIRAZAR, JUAN IGNACIO
 ## BIARRIETA,ALEJANDRO 
